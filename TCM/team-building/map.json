@@ -269,6 +269,12 @@
  "nextlayerid":38,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"apiUrl",
+         "type":"string",
+         "value":"https:\/\/world.ccc-p.org"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
